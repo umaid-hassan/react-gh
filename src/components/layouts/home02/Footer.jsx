@@ -42,9 +42,12 @@ class Footer extends Component {
                             </div>
                             <div className="col-lg-2">
                                 <div className="socials-list color-s1">
-                                    <Link to="#"><i className="fa fa-facebook" aria-hidden="true" /></Link>
-                                    <Link to="#"><i className="fa fa-twitter" aria-hidden="true" /></Link>
-                                    <Link to="#"><i className="fa fa-instagram" aria-hidden="true" /></Link>
+                                    <Link to="https://www.facebook.com/umaidhassan08
+"><i className="fa fa-facebook" aria-hidden="true" /></Link>
+                                    <Link to="https://twitter.com/umaid008
+"><i className="fa fa-twitter" aria-hidden="true" /></Link>
+                                    <Link to="https://www.instagram.com/umaidhassan/
+"><i className="fa fa-instagram" aria-hidden="true" /></Link>
                                 </div>
                             </div>
                         </div>

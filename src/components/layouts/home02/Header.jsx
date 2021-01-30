@@ -13,11 +13,18 @@ class Header extends Component {
             <header id="header" className="header header-style2 has-menu-model">
                 <div className="container">
                     <div className="flex-header d-flex justify-content-between align-items-center">
+                    <img src="images/logo/2.png" alt="images" />
                         <div className="socials-list-hd s1 hv1">
-                            <Link to="#"><i className="fa fa-facebook" aria-hidden="true" /></Link>
-                            <Link to="#"><i className="fa fa-twitter" aria-hidden="true" /></Link>
-                            <Link to="#"><i className="fa fa-instagram" aria-hidden="true" /></Link>
-                            <img src="images/logo/2.png" alt="images" />
+                            <Link to="https://www.facebook.com/umaidhassan08
+"><i className="fa fa-facebook" aria-hidden="true" /></Link>
+                            <Link to="https://twitter.com/umaid008
+"><i className="fa fa-twitter" aria-hidden="true" /></Link>
+                            <Link to="https://www.instagram.com/umaidhassan/
+"><i className="fa fa-instagram" aria-hidden="true" /></Link>
+                            <Link to="https://github.com/umaid-hassan
+"><i className="fa fa-github-alt" aria-hidden="true" /></Link>
+                            <Link to="https://www.instagram.com/umaidhassan/
+"><i className="fa fa-snapchat-ghost" aria-hidden="true" /></Link>
                         </div>
                         <div dir="rtl" className="btn-menu mobile-header__menu-button">
                             <div className="line line-1" />

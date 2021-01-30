@@ -30,7 +30,8 @@ class Banner extends Component {
                             </div>
                             <div className="animate-element wow delay5 fadeInUp" data-wow-delay="0.3s">
                                 <div className="site-list has-border">
-                                <Link to="#" className="bg-s1"><i className="fa fa-twitter" aria-hidden="true" /></Link>
+                                <Link to="https://twitter.com/umaid008
+" className="bg-s1"><i className="fa fa-twitter" aria-hidden="true" /></Link>
                                 <Link to="#" className="bg-s2"><i className="fa fa-behance" aria-hidden="true" /></Link>
                                 <Link to="#" className="bg-s3"><span className="icon-dribble" /></Link>
                                 </div>

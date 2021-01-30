@@ -23,7 +23,7 @@ class NumberCount extends Component {
                     id: 1,
                     item: 'f-item color-s4 counter mg-f-item3',
                     datato: '379',
-                    text: 'Project Complate'
+                    text: 'Project Complete'
                 }
             ]
         }

@@ -19,10 +19,10 @@ class ContentEducation extends Component {
                     <div className="col-right">
                         <div className="experience-box t2 border-corner5 color-s1">
                         <div className="box-inner">
-                            <h3 className="f-info color-d3">2013-2015</h3>
-                            <div className="s-info">UI Designer at Microsoft</div>
+                            <h3 className="f-info color-d3">2019-2020</h3>
+                            <div className="s-info">Environmental Research Associate at Eco Syntec</div>
                             <p>
-                            User experience (UX) design is the process design teams use to create products. 
+                            EIA | IEE report writing 
                             </p>
                         </div>
                         </div>
@@ -31,10 +31,10 @@ class ContentEducation extends Component {
                 <div className="col-lg-5 col-md-6 col-12 animate-element wow delay5 fadeInUp" data-wow-delay="0.7s">
                     <div className="experience-box t2 border-corner5 color-s2">
                         <div className="box-inner">
-                        <h3 className="f-info color-d4">Udemy</h3>
-                        <div className="s-info">Interaction Design</div>
+                        <h3 className="f-info color-d4">COMSATS</h3>
+                        <div className="s-info">BS Computer Science (2014-2018)</div>
                         <p>
-                            User experience (UX) design is the process design teams use to create products. 
+                            Software Engineering | AI | HCI | Data Structures | Algorithms | Automata Theory 
                         </p>
                         </div>
                     </div>
@@ -43,10 +43,10 @@ class ContentEducation extends Component {
                     <div className="col-right">
                         <div className="experience-box t2 border-corner5 color-s2">
                         <div className="box-inner">
-                            <h3 className="f-info color-d4">2015-2017</h3>
-                            <div className="s-info">UX Designer at Apple</div>
+                            <h3 className="f-info color-d4">2018-2021</h3>
+                            <div className="s-info">Freelancer at Fiverr</div>
                             <p>
-                            User experience (UX) design is the process design teams use to create products. 
+                            Wordpress Developer | UX Designer | Technical Writing  
                             </p>
                         </div>
                         </div>
@@ -55,10 +55,10 @@ class ContentEducation extends Component {
                 <div className="col-lg-5 col-md-6 col-12 animate-element wow delay5 fadeInUp" data-wow-delay="0.6s">
                     <div className="experience-box t2 border-corner5 color-s3">
                         <div className="box-inner">
-                        <h3 className="f-info color-d5">Skill Share</h3>
-                        <div className="s-info">Interaction Design</div>
+                        <h3 className="f-info color-d5">Udacity</h3>
+                        <div className="s-info">React Nano-Degree</div>
                         <p>
-                            User experience (UX) design is the process design teams use to create products. 
+                            React | Redux | Hooks | React Native 
                         </p>
                         </div>
                     </div>
@@ -67,10 +67,10 @@ class ContentEducation extends Component {
                     <div className="col-right">
                         <div className="experience-box t2 border-corner5 color-s3">
                         <div className="box-inner">
-                            <h3 className="f-info color-d5">2017-2019</h3>
-                            <div className="s-info">Product Designer at Earth</div>
+                            <h3 className="f-info color-d5">2020-2021</h3>
+                            <div className="s-info">Co-founder at Pakistani Organic Dirt</div>
                             <p>
-                            User experience (UX) design is the process design teams use to create products. 
+                            Using food waste to make compost. 
                             </p>
                         </div>
                         </div>
