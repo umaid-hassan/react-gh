@@ -17,6 +17,7 @@ class Header extends Component {
                             <Link to="#"><i className="fa fa-facebook" aria-hidden="true" /></Link>
                             <Link to="#"><i className="fa fa-twitter" aria-hidden="true" /></Link>
                             <Link to="#"><i className="fa fa-instagram" aria-hidden="true" /></Link>
+                            <img src="images/logo/2.png" alt="images" />
                         </div>
                         <div dir="rtl" className="btn-menu mobile-header__menu-button">
                             <div className="line line-1" />

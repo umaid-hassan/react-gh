@@ -13,14 +13,15 @@ class Banner extends Component {
                     </div>
                     <div className="featured-post-right">
                         <div className="content-text">
-                            <div className="animate-element wow delay5 fadeInDown" data-wow-delay="0.3s">
-                                <div className="tag lt-sp53 mg-b24 text-white">Developer | Environmentalist</div>                                    
+                            <div className="animate-element wow delay5 fadeInDown" data-wow-delay="0.3s">                                    
                                 <h1 className="cd-headline clip is-full-width title mg-b29 text-white">
-                                <span>Hello, </span>
+                                <span>Hello, I'm Umaid!</span>
+                                <br></br>
                                 <span className="cd-words-wrapper color-d4">
-                                    <b className="is-visible">I’m Umaid!</b>
-                                    <b>Developer!</b>
+                                    <b className="is-visible"> Designer!</b>
+                                    <b>Entreprenuer!</b>
                                     <b>Researcher!</b>
+                                    <b>Developer!</b>
                                 </span>
                                 </h1>
                                 <p className="mg-b53 text-white">

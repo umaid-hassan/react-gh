@@ -7,10 +7,10 @@ class ContentEducation extends Component {
                 <div className="col-lg-5 col-md-6 col-12 animate-element wow delay5 fadeInUp" data-wow-delay="0.5s">
                     <div className="experience-box t2 border-corner5 color-s1">
                         <div className="box-inner">
-                        <h3 className="f-info color-d3">Universite of Udacity</h3>
-                        <div className="s-info">User Experience Design</div>
+                        <h3 className="f-info color-d3">University of the Punjab</h3>
+                        <div className="s-info">BS Environmental Sciences (2015-2020)</div>
                         <p>
-                            User experience (UX) design is the process design teams use to create products. 
+                            GIS | Toxicology | EIA | Environmental Law | Ecology | Atmospheric Chemistry 
                         </p>
                     </div>
                 </div>
