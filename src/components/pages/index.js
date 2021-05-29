@@ -1,4 +1,4 @@
-import Home02 from './Home02';
+import Home02 from './Home';
 import Blog from './Blog';
 import BlogSingle from './BlogSingle';
 
