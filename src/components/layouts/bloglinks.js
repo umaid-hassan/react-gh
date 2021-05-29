@@ -2,12 +2,12 @@
 const bloglinks = [
     {
         id: 1,
-        toblog: '/blog',
+        toblog: '#/process.env.PUBLIC_URL/blog',
         nameblog: 'Blog'
     },
     {
         id: 2,
-        toblog: '/blog-single',
+        toblog: '#/process.env.PUBLIC_URL/blog-single',
         nameblog: 'Blog Single'
     }
 ]
