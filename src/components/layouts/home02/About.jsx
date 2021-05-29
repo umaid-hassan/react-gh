@@ -6,7 +6,7 @@ class About extends Component {
     
     render() {
         return (
-            <div id="c_about" className="tf-modalbox-wrapper">                    
+            <div id="c_about about" className="tf-modalbox-wrapper">                    
                 <div className="tf-modal-content">
                     <section className="about-me t2 s2 shape-am position-relative" id="about">
                         <Icon />

@@ -3,7 +3,7 @@ import {SlideCase, TopCase} from './casesudy/index'
 class CaseStudy extends Component {
     render() {
         return (
-            <div id="c_portfolio" className="tf-modalbox-wrapper">
+            <div id="c_portfolio portfolio" className="tf-modalbox-wrapper">
                 <div className="tf-modal-content">
                     <section className="flat-case-study s2 animation" id="portfolio">
                         <TopCase />

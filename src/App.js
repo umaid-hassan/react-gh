@@ -1,19 +1,19 @@
 //import { Route, BrowserRouter, HashRouter } from 'react-router-dom'
 //import { Route, HashRouter, Switch } from 'react-router-dom'
-import { Route, HashRouter } from 'react-router-dom'
+import { Route, BrowserRouter } from 'react-router-dom'
 import routes from './components/pages'
 //import Home from './components/pages/Home'
 //import Blog from './components/pages/Blog'
 function App() {
 
   return (
-      <HashRouter basename={'process.env.PUBLIC_URL'}>
+      <BrowserRouter >
           {
             routes.map((route, idx) => (
               <Route exact path={route.path} component={route.component} key={idx}></Route>
             ))
           }
-      </HashRouter>
+      </BrowserRouter>
       // <HashRouter>
       //     <Switch>
       //         <Route exact path="/" component={Home} />

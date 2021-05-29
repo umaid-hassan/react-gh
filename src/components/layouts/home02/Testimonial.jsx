@@ -46,7 +46,7 @@ class Testimonial extends Component {
     
     render() {
         return (
-            <div id="c_clients" className="tf-modalbox-wrapper">
+            <div id="c_clients testimonial" className="tf-modalbox-wrapper">
                 <div className="tf-modal-content">
                     <section className="testimonial t2 s2 bg-s1 position-relative" id="testimonial">
                         <div className="background-right bg-cl2">
